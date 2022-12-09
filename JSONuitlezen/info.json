@@ -1,0 +1,227 @@
+[
+  {
+    "id": "634e5b8837bb6b552f5cf8af",
+    "index": 0,
+    "guid": "225b1d30-1c11-49fb-bfa0-fa1f6ba484ad",
+    "isActive": true,
+    "balance": "$3,965.84",
+    "picture": "http://placehold.it/32x32",
+    "age": 20,
+    "eyeColor": "brown",
+    "name": "Alejandra Rhodes",
+    "gender": "female",
+    "company": "KONGENE",
+    "email": "alejandrarhodes@kongene.com",
+    "phone": "+1 (951) 483-3743",
+    "address": "491 Richardson Street, Cotopaxi, Puerto Rico, 6273",
+    "about": "Nisi veniam duis exercitation anim do ipsum. Aliquip qui in officia culpa culpa reprehenderit irure mollit amet amet Lorem nulla officia aliquip. Excepteur laborum ipsum sunt dolor ad aliqua qui quis minim officia in. Adipisicing qui deserunt officia esse laborum irure. In anim qui id officia anim anim magna officia laboris.\r\n",
+    "registered": "2022-05-14T12:35:12 -02:00",
+    "latitude": -25.156048,
+    "longitude": 14.107867,
+    "tags": [
+      "et",
+      "nisi",
+      "pariatur",
+      "cupidatat",
+      "non",
+      "ut",
+      "ut"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Lucille Holloway"
+      },
+      {
+        "id": 1,
+        "name": "Tabatha Lucas"
+      },
+      {
+        "id": 2,
+        "name": "Leanna Haney"
+      }
+    ],
+    "greeting": "Hello, Alejandra Rhodes! You have 9 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "id": "634e5b88be76624b5098b244",
+    "index": 1,
+    "guid": "e5fedc27-99e2-4aa0-90ed-8a9f3941798e",
+    "isActive": true,
+    "balance": "$2,119.41",
+    "picture": "http://placehold.it/32x32",
+    "age": 29,
+    "eyeColor": "blue",
+    "name": "Thornton Santana",
+    "gender": "male",
+    "company": "ZANITY",
+    "email": "thorntonsantana@zanity.com",
+    "phone": "+1 (843) 504-3467",
+    "address": "409 Gunther Place, Bendon, Alabama, 5411",
+    "about": "Duis cupidatat in sint ea tempor et aute elit est id ut ut. Laborum ipsum proident velit incididunt adipisicing. Sit occaecat nulla nisi exercitation in consectetur amet elit tempor aliqua labore esse.\r\n",
+    "registered": "2014-07-29T10:47:09 -02:00",
+    "latitude": 46.573246,
+    "longitude": -15.483314,
+    "tags": [
+      "reprehenderit",
+      "est",
+      "consectetur",
+      "nostrud",
+      "ipsum",
+      "nulla",
+      "id"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Perry Mccullough"
+      },
+      {
+        "id": 1,
+        "name": "Bobbie Bullock"
+      },
+      {
+        "id": 2,
+        "name": "Cameron Schneider"
+      }
+    ],
+    "greeting": "Hello, Thornton Santana! You have 4 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "id": "634e5b880f3367c298399dbc",
+    "index": 2,
+    "guid": "fcf4ad23-869c-4db4-8411-90ca0feb64cf",
+    "isActive": true,
+    "balance": "$1,621.94",
+    "picture": "http://placehold.it/32x32",
+    "age": 20,
+    "eyeColor": "brown",
+    "name": "York Brewer",
+    "gender": "male",
+    "company": "HYDROCOM",
+    "email": "yorkbrewer@hydrocom.com",
+    "phone": "+1 (973) 551-2889",
+    "address": "697 Hendrickson Place, Cassel, Michigan, 8818",
+    "about": "Enim nulla aute excepteur sit. Sint ullamco voluptate dolor duis mollit laborum voluptate mollit commodo. Dolor ea dolor dolore elit incididunt est. Proident adipisicing officia incididunt amet sit sint ad. Magna dolor nulla irure est pariatur id et do anim ullamco velit mollit. Ex dolor sunt anim consequat.\r\n",
+    "registered": "2014-07-05T07:11:31 -02:00",
+    "latitude": -74.087653,
+    "longitude": -39.605521,
+    "tags": [
+      "eiusmod",
+      "eiusmod",
+      "laboris",
+      "ad",
+      "aliquip",
+      "enim",
+      "ex"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Fernandez Swanson"
+      },
+      {
+        "id": 1,
+        "name": "Francis Roy"
+      },
+      {
+        "id": 2,
+        "name": "Moody Camacho"
+      }
+    ],
+    "greeting": "Hello, York Brewer! You have 8 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "id": "634e5b88a514090351e70284",
+    "index": 3,
+    "guid": "d4bc7eb0-ca63-4af8-b4ef-35794f2eac91",
+    "isActive": false,
+    "balance": "$3,035.10",
+    "picture": "http://placehold.it/32x32",
+    "age": 34,
+    "eyeColor": "green",
+    "name": "Fitzpatrick Chen",
+    "gender": "male",
+    "company": "ATGEN",
+    "email": "fitzpatrickchen@atgen.com",
+    "phone": "+1 (939) 467-2834",
+    "address": "949 Anna Court, Sunbury, Louisiana, 2894",
+    "about": "Deserunt ut nisi voluptate reprehenderit duis labore. Irure non incididunt sit veniam amet cupidatat occaecat anim commodo duis aliqua aliquip pariatur. Aliqua amet laborum sint et qui dolor ullamco fugiat officia labore laboris. Culpa occaecat nostrud adipisicing sit nostrud consectetur.\r\n",
+    "registered": "2021-03-28T06:44:54 -02:00",
+    "latitude": -85.70643,
+    "longitude": 113.978177,
+    "tags": [
+      "deserunt",
+      "nostrud",
+      "aliqua",
+      "esse",
+      "laboris",
+      "excepteur",
+      "nostrud"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Patton Walker"
+      },
+      {
+        "id": 1,
+        "name": "Kirby Whitehead"
+      },
+      {
+        "id": 2,
+        "name": "Stafford Strong"
+      }
+    ],
+    "greeting": "Hello, Fitzpatrick Chen! You have 1 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "id": "634e5b885aefcdf449703af3",
+    "index": 4,
+    "guid": "78e94a4c-e68f-44c1-81a6-83bda7b74ef2",
+    "isActive": true,
+    "balance": "$1,577.74",
+    "picture": "http://placehold.it/32x32",
+    "age": 22,
+    "eyeColor": "brown",
+    "name": "Mayo Mcconnell",
+    "gender": "male",
+    "company": "HANDSHAKE",
+    "email": "mayomcconnell@handshake.com",
+    "phone": "+1 (993) 459-2816",
+    "address": "667 Sutton Street, Fontanelle, Idaho, 4292",
+    "about": "Et laboris incididunt minim sit. Laborum laborum sint velit nostrud ad duis dolor commodo sunt id laboris magna pariatur ad. Deserunt nostrud sit quis in. Dolore eu eu est ad. Cupidatat laborum laboris ullamco adipisicing et reprehenderit cillum occaecat anim et incididunt ex pariatur. Reprehenderit irure consectetur id eu. Ut pariatur dolore dolore exercitation exercitation ut ipsum qui laborum occaecat mollit.\r\n",
+    "registered": "2018-11-18T01:46:53 -01:00",
+    "latitude": 18.202709,
+    "longitude": 39.245118,
+    "tags": [
+      "voluptate",
+      "ullamco",
+      "cupidatat",
+      "commodo",
+      "magna",
+      "commodo",
+      "sint"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Holloway Ayers"
+      },
+      {
+        "id": 1,
+        "name": "Shawn Jefferson"
+      },
+      {
+        "id": 2,
+        "name": "Lolita Eaton"
+      }
+    ],
+    "greeting": "Hello, Mayo Mcconnell! You have 1 unread messages.",
+    "favoriteFruit": "strawberry"
+  }
+]
